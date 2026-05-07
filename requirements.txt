@@ -1,0 +1,17 @@
+numpy==1.26.4
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-experimental
+langchain-text-splitters
+langchain-huggingface
+chromadb==0.4.24
+sentence-transformers
+pandas
+seaborn
+matplotlib
+fpdf2
+python-dotenv
+pysqlite3-binary
+tabulate
